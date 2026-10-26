@@ -1,4 +1,4 @@
-## Hi there 👋
+## print("𐀁𐀒𐀰𐀗 𐀀𐀄𐀳, 𐀁𐀯 𐀁𐀪𐀑𐀯𐀫")
 
 <!--
 **elixirDvida/elixirDvida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
