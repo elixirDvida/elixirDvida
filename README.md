@@ -1,4 +1,4 @@
-<h2 align="center">##Hello there </h2>
+<h2 align="center">Hello there </h2>
 <!--
 **elixirDvida/elixirDvida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
